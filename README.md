@@ -146,6 +146,3 @@ Jika nama notebook ingin dirapikan sebelum diunggah, nama seperti `klasifikasi_d
 - Machine learning: [scikit-learn](https://scikit-learn.org/stable/)
 - Pengolahan citra: [OpenCV](https://opencv.org/)
 
-## Lisensi dan penggunaan dataset
-
-Lisensi kode notebook dan ketentuan penggunaan dataset perlu ditentukan secara terpisah. Sebelum menambahkan berkas lisensi ke repositori, periksa lisensi yang berlaku pada halaman dataset Kaggle dan pastikan hak penggunaan serta distribusinya sesuai.
